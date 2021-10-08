@@ -1,4 +1,5 @@
 # Sample database from mysqltutorial.org 
+Sample database from [mysqltutorial.org](https://www.mysqltutorial.org/). If you are new to MySQL, this is good education site to get started with MySQL. 
 
 The MySQL sample database schema consists of the following tables:
 
