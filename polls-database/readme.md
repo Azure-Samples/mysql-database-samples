@@ -1,6 +1,6 @@
 # Polls database Schema
 
-With this schema you can now start building an application in any languages of your choice to create a simple polls applications.
+With this schema you can now start building an application in any languages of your choice to create a simple polls applications. Note that this script only has schema for a simple poll application. 
 
 ## Tables in this schema
 
