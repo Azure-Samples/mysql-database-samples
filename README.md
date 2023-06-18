@@ -12,7 +12,7 @@ Follow the steps below to install these scripts out on your server.
 
 ### Prerequisites
 
-- You need an Azure subscription. Sign up for Free trial and you can get 12 months free with [Azure Database for MySQL Flexilbe server](https://docs.microsoft.com/en-us/azure/mysql/flexible-server/how-to-deploy-on-azure-free-account).
+- You need an Azure subscription. Sign up for Free trial and you can get 12 months free with [Azure Database for MySQL Flexible server](https://docs.microsoft.com/en-us/azure/mysql/flexible-server/how-to-deploy-on-azure-free-account).
 - You need to install a client to install the schema and data. You can install Azure CLI or MySQL Client tool like mysql.exe or MYSQL Workbench. 
 
 ## Installation using Azure CLI 
