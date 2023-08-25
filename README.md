@@ -1,4 +1,4 @@
-# Sample Databases for Azure Database for MySQL flexible server 
+# Sample Databases for Azure Database for MySQL Flexible Server 
 
 There are two sample database options for you to use: 
 - [Polls database](./polls-database) : Use this schema to create a polls application 
@@ -17,7 +17,7 @@ Follow the steps below to install these scripts out on your server.
 
 ## Installation using Azure CLI 
 1. Install [Azure CLI ](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli). If ou have Azure CLI installed , please run ```az upgrade``` to make sure you are suing the latest Azure CLI version. 
-2. Create Azure database for MySQL Flexible server with public access 
+2. Create Azure database for MySQL Flexible Server with public access 
 ``` az mysql flexible-server create --name mydemoserver --pubic-access all ```
 3. Import data using ```execute``` command. 
 ``` az mysql flexible-server execute -n mysqlservername -u adminuser -p "adminpassword" -f "path to pollsdb.sql"```
